@@ -31,11 +31,13 @@ THEN the saved events persist
 Actions:
 
 1. Review html and css provided
-2. Ensure all links to ref sheets in provided code ok
-3. Write javascript
+2. Ensure all links to ref sheets in provided ok and code makes sense
+3. Write up javascript file with required functionality and write javascript code
 4. Check inputs and save to local drives
-5. url of github repository: https://github.com/AJoanBell/week5_challenge_calendar
-6. Create page for url deployed application
-7. url of deployed application: https://ajoanbell.github.io/week5_challenge_calendar/
-8. Take Screenshots of application:
+5. Check saving of info
+6. Check functionality of entire document
+7. url of github repository: https://github.com/AJoanBell/week5_challenge_calendar
+8. Create page for url deployed application
+9. url of deployed application: https://ajoanbell.github.io/week5_challenge_calendar/
+10. Take Screenshots of application:
 

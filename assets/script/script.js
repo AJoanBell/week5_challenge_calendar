@@ -1,9 +1,9 @@
-// current date using moment
+// display the actual date using moment
 $("#currentDay").text(moment().format("dddd") + ", " + moment().format("MMMM Do") + ", " + moment().format("YYYY"));
 
-//Start Document
+//document
 $(document).ready(function(){
-    // Functions called
+    // Functions 
     assessHour();
     localUser();
 });

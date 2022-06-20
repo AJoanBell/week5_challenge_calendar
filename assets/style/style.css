@@ -1,3 +1,4 @@
+
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
@@ -77,5 +78,5 @@ textarea {
 }
 
 #currentDay {
-  font-size: xx-large;
+  font-size: x-large;
 }

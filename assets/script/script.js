@@ -16,7 +16,7 @@ function assessHour() {
     var currentTime = moment().format("HH");
     var timeInt = parseInt(currentTime);
     // IF/ELSE statements to establish 9am-5pm work hours 
-    for(var i = 1; i < 10; i++) {
+    for(var i = 9; i < 18; i++) {
         
         // Declare Variables to parse for integer
         var timeSlot = $("#" + i).attr("data-index");
@@ -37,7 +37,7 @@ function assessHour() {
 // Local storage function
 function localUser(){
     //Store locally create loop
-    for(var i = 1; i < 10; i++) {
+    for(var i = 9; i < 18; i++) {
         $("#" + i).val(localStorage.getItem(i));
     }
 }

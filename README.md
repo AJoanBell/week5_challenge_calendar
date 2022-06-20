@@ -43,3 +43,19 @@ Actions:
 11. url of deployed application: https://ajoanbell.github.io/week5_challenge_calendar/
 12. Screenshots of deployed application:
 
+Screenshot outside of workday hours
+
+<img width="1136" alt="Screen Shot 2022-06-20 at 8 37 39 pm" src="https://user-images.githubusercontent.com/36496885/174601888-6f3fa351-057e-4736-9d97-10501baeb2c9.png">
+
+Screenshot during workday hours with past = grey, current = red and future = green timeslots
+
+<img width="1307" alt="Screen Shot 2022-06-20 at 8 55 13 pm" src="https://user-images.githubusercontent.com/36496885/174602023-256d4b55-76ba-449c-a16c-7e5a10144778.png">
+
+Screenshot with input in text fields:
+
+<img width="1324" alt="Screen Shot 2022-06-20 at 8 54 50 pm" src="https://user-images.githubusercontent.com/36496885/174602253-e8a6f11d-cff3-4d8e-a786-494dd8b961a8.png">
+
+Screenshot of console saving to local data
+
+<img width="1243" alt="Screen Shot 2022-06-20 at 10 33 05 pm" src="https://user-images.githubusercontent.com/36496885/174602549-82218935-5983-4b69-ad20-ed1a37221d89.png">
+

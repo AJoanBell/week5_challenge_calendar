@@ -1,22 +1,19 @@
-# week5_challenge_calendar
+Week 5 Challenge calendar/scheduler
 
-## Your Task
+The Task
 
 Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
 You'll need to use the [Moment.js](https://momentjs.com/) library to work with date and time. Be sure to read the documentation carefully and concentrate on using Moment.js in the browser.
 
-## User Story
+User Story
 
-```md
 AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
-```
 
-## Acceptance Criteria
+Acceptance Criteria
 
-```md
 GIVEN I am using a daily planner to create a schedule
 WHEN I open the planner
 THEN the current day is displayed at the top of the calendar
@@ -30,12 +27,16 @@ WHEN I click the save button for that timeblock
 THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
-```
-1.
-2.
-3.
+
+Actions:
+
+1. Review html and css provided
+2. Write javascript
+3. Ensure all links to ref sheets in provided code ok
 4.
-5. url of github repository:
-6. url of deployed application:
-Screenshots of application:
+5. url of github repository: https://github.com/AJoanBell/week5_challenge_calendar
+
+6. Create page for url deployed application
+7. url of deployed application: https://ajoanbell.github.io/week5_challenge_calendar/
+8. Take Screenshots of application:
 

@@ -1,4 +1,4 @@
-// display the actual date using moment
+// display the actual date using moment with correct format
 $("#currentDay").text(moment().format("dddd") + ", " + moment().format("MMMM Do") + ", " + moment().format("YYYY"));
 
 //document
@@ -9,21 +9,21 @@ $(document).ready(function(){
 });
 
 // Function for if time slot is past, present or future
-// Colour of fields changed based on this criteria
+// Colour of fields changed based on this parse
 function assessHour() {
 
-    // Declare variables to parse for integer
+    // Declare variables to parse 
     var currentTime = moment().format("HH");
     var timeInt = parseInt(currentTime);
-    // IF/ELSE statements inside FOR loop to assess standard business hours (9-5)
-    for(var i = 9; i < 18; i++) {
+    // IF/ELSE statements to establish 9am-5pm work hours 
+    for(var i = 1; i < 10; i++) {
         
         // Declare Variables to parse for integer
         var timeSlot = $("#" + i).attr("data-index");
         var timeSlotInt= parseInt(timeSlot);
 
 
-        // TimeSlot assessment
+        // TimeSlot parameters
         if(timeInt > timeSlotInt){
             $("#" + i).addClass("past");
         } if(timeInt == timeSlotInt) {
@@ -37,7 +37,7 @@ function assessHour() {
 // Local storage function
 function localUser(){
     //Store locally create loop
-    for(var i = 9; i < 18; i++) {
+    for(var i = 1; i < 10; i++) {
         $("#" + i).val(localStorage.getItem(i));
     }
 }

@@ -32,12 +32,14 @@ Actions:
 
 1. Review html and css provided
 2. Ensure all links to ref sheets in provided ok and code makes sense
-3. Write up javascript file with required functionality and write javascript code
-4. Check inputs and save to local drives
-5. Check saving of info
-6. Check functionality of entire document
-7. url of github repository: https://github.com/AJoanBell/week5_challenge_calendar
-8. Create page for url deployed application
-9. url of deployed application: https://ajoanbell.github.io/week5_challenge_calendar/
-10. Take Screenshots of application:
+3. View html in browser to see what it looks like and what I have already
+4. Write up javascript file with required functionality and write javascript code
+5. Make changes to html and CSS and add in as comments
+6. Check inputs and save to local drives
+7. Check saving of info
+8. Check functionality of entire document
+9. url of github repository: https://github.com/AJoanBell/week5_challenge_calendar
+10. Create page for url deployed application
+11. url of deployed application: https://ajoanbell.github.io/week5_challenge_calendar/
+12. Screenshots of deployed application:
 
